@@ -1,9 +1,4 @@
-Perfect 👍 Let me write you a clean **README.md** that you can drop in your project before zipping/pushing.
-It explains setup, running, tests, and what features you implemented.
 
----
-
-```markdown
 # GetGSA — Coding Test Solution
 
 This project implements a minimal working slice of **GetGSA (AI + RAG)** as per the coding test requirements.
