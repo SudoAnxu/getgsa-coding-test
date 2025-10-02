@@ -114,8 +114,3 @@ docker run -p 8000:8000 getgsa
 ---
 
 👨‍💻 Author: *[Priyangshu Karmakar]*
-
-
-
-👉 Do you want me to also **add a sample run section** (with screenshots of UI + API JSON response) so it looks extra convincing when they open the repo/zip?
-```
