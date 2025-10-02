@@ -1,0 +1,5 @@
+Customer: City of Palo Verde
+Contract: Website modernization
+Value: $18,000
+Period: 07/2023 - 03/2024
+Contact: John Roe, cio@pverde.gov

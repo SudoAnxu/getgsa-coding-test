@@ -1,0 +1,3 @@
+Labor Category, Rate, Unit
+Senior Developer, 185, Hour
+Project Manager, 165, Hour
